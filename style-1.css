@@ -16,7 +16,7 @@ header{
     background: transparent;
     
 }
-header .container{
+header .contaner{
     height: 10vh;
     width: 100%;
     margin: 0 auto;
@@ -28,7 +28,7 @@ header .container{
     align-items: center;
 
 }
-.log img{
+.logo img{
     width: 30px;
     height: 35;
 }
