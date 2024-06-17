@@ -38,16 +38,16 @@ header.container{
     font-weight: 500;
     cursor: default;
 }
-.a{
+a{
     text-decoration: none;
     color: white;
 }
-.ul{
+ul{
     display: flex;
     gap: 14px;
 list-style: none;
 }
-.nav{
+nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
