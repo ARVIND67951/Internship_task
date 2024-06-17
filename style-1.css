@@ -16,7 +16,7 @@ header{
     background: transparent;
     
 }
-header .contaner{
+header.container{
     height: 10vh;
     width: 100%;
     margin: 0 auto;
