@@ -75,7 +75,7 @@ nav{
     top: 0;
     left: 0;
 }
-.containert .container{
+.contend .container{
     justify-content: center;
     display: flex;
     flex-direction: column;
